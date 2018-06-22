@@ -1,0 +1,2 @@
+hello git 
+this is comment i first made in my computer
